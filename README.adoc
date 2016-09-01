@@ -1,0 +1,1 @@
+Sample for https://issues.gradle.org/browse/GRADLE-1766[GRADLE-1766]
